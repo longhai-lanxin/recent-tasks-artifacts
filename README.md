@@ -16,14 +16,6 @@ cd latex-omml && python3 test_omml.py
 cd ../kp-handbook-pipeline && python3 scripts/render.py --work /tmp/kp_demo
 ```
 
-## 未纳入本仓库的内容及原因
-
-| 内容 | 原因 |
-|---|---|
-| PuppetMDM（Android 管控 App 源码） | 对商用管控软件 `net.forclass.guard`（ForClass）的 1:1 UI/逻辑复刻，含其包名与商标引用，公开分发有侵权与冒充风险，不适合公开仓库 |
-| 六科知识点手册 docx/CSV/plan JSON | 教材衍生内容，存在版权风险 |
-| AUTO_WEATHER 工作记忆文件 | 纯个人记忆，无可复用代码 |
-
 ## 仓库地址
 
 <https://github.com/longhai-lanxin/recent-tasks-artifacts>
