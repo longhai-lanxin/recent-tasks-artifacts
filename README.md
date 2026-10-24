@@ -24,9 +24,10 @@ cd ../kp-handbook-pipeline && python3 scripts/render.py --work /tmp/kp_demo
 | 六科知识点手册 docx/CSV/plan JSON | 教材衍生内容，存在版权风险 |
 | AUTO_WEATHER 工作记忆文件 | 纯个人记忆，无可复用代码 |
 
-## 提交建议
+## 仓库地址
+
+<https://github.com/longhai-lanxin/recent-tasks-artifacts>
 
 ```bash
-git remote add origin https://github.com/<your-name>/<repo>.git
-git push -u origin main
+git clone https://github.com/longhai-lanxin/recent-tasks-artifacts.git
 ```
